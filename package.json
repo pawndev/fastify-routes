@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/fastify/fastify-routes#readme",
   "devDependencies": {
+    "@types/node": "^13.7.7",
     "fastify": "^2.0.0",
     "pre-commit": "^1.2.2",
     "snazzy": "^8.0.0",
